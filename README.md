@@ -34,4 +34,5 @@ The dataset can be downloaded from the repository
   - Uncover relationships between different attributes.
 
 ## Contact
-For any queries or assistance, feel free to reach out.
+For any queries or suggestions, please contact [Ashutosh Dash](mailto:ashutoshpiku1234@gmail.com).
+
